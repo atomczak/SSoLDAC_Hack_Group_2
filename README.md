@@ -12,10 +12,9 @@ This repository contains the solution of one of the groups participating in the 
 2.
 3.
 4.
-+ Artur Tomczak
 
 ## Idea
-TBC...
+bSDD allows for linking class definitions with relations. However, not all content creators take advantage of relations. This solution tries to ...
 
 ## Tasks
 - [ ] TBC...
