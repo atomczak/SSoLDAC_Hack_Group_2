@@ -7,11 +7,13 @@ This repository contains the solution of one of the groups participating in the 
 
 ## Group name: "We will figure out the name later"
 
+
 ## Group members
-1.
-2.
-3.
-4.
+1.Rebekka Benfer
+2.Aaron Costin
+3.Ruben Kruiper
+4.Giulia Maslov
+(5. Artur Tomczak)
 
 ## Idea
 bSDD allows for linking class definitions with relations. However, not all content creators take advantage of relations. This solution tries to ...
