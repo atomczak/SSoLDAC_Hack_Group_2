@@ -5,7 +5,7 @@ This repository contains the solution of one of the groups participating in the 
 
 ## Chalange name: Data Dictionaries
 
-## Group name: "We will figure out the name later"
+## Group name: "Be as DoDos"
 
 
 ## Group members
