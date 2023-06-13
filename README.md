@@ -10,9 +10,13 @@ This repository contains the solution of one of the groups participating in the 
 
 ## Group members
 1.Rebekka Benfer
+
 2.Aaron Costin
+
 3.Ruben Kruiper
+
 4.Giulia Maslov
+
 (5. Artur Tomczak)
 
 ## Idea
