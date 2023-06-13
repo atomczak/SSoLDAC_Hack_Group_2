@@ -1,3 +1,6 @@
+# SPaR.txt to avoid uploading a large model file
+SPaR.txt/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
