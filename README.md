@@ -5,13 +5,14 @@ This repository contains the solution of one of the groups participating in the 
 
 ## Chalange name: Data Dictionaries
 
-## Group name: ???
+## Group name: "We will figure out the name later"
 
 ## Group members
 1.
 2.
 3.
 4.
++ Artur Tomczak
 
 ## Idea
 TBC...
