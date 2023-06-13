@@ -1,4 +1,5 @@
 from typing import List, Union
+import sys
 import os
 import imp
 import concurrent.futures
@@ -11,12 +12,13 @@ from threading import current_thread
 # from utils.customdocument import CustomDocument
 
 
-spartxt_path = Path.cwd().joinpath("SPaR.txt")
-with open(spartxt_path.joinpath('spar_predictor.py'), 'rb') as fp:
-    spar_predictor = imp.load_module(
-        'spar_predictor', fp, 'SPaR.txt.spar_predictor.py',
-        ('.py', 'rb', imp.PY_SOURCE)
-    )
+# spartxt_path = Path.cwd().joinpath("SPaRtxt")
+# with open(spartxt_path.joinpath('spar_predictor.py'), 'rb') as fp:
+#     spar_predictor = imp.load_module(
+#         'spar_predictor', fp, 'SPaRtxt.spar_predictor.py',
+#         ('.py', 'rb', imp.PY_SOURCE)
+#     )
+from SPaRtxt import spar_predictor
 
 
 
