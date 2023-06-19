@@ -25,7 +25,7 @@ bSDD allows for linking class definitions with relations. However, not all conte
 ## Tasks
 - [ ] Call SPaR.txt from docker API
 - [ ] Split notebook into coherent parts and provide reasonable comments
-- [ ] TBC...
+- [ ] Add functionality to compare new nodes (tpfDefinitions.ttl) to existing nodes in bSDD
 
 ## Notes
 TBC...
