@@ -43,10 +43,10 @@ class NER:
         Call the SPaR.txt API, expecting {"texts": original_input, "sentences": List[str], "predictions": List[Dict[str, str]]}
         """
         response = requests.post(self.api,  json={"texts": text}).json()
-        # texts = response['texts']
+        texts = response['texts']
         sentences = response['sentences']
         predictions = response['predictions']
         
-        return sentences, predictions
+        return texts, sentences, predictions
         
         
